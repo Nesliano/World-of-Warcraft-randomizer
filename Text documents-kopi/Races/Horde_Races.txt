@@ -1,0 +1,8 @@
+Orc
+Undead
+Tauren
+Troll
+Blood Elf
+Goblin
+Pandaren
+Dracthyr

@@ -1,0 +1,11 @@
+Warrior
+Paladin
+Hunter
+Rogue
+Priest
+Shaman
+Mage
+Warlock
+Monk
+Druid
+Death Knight

@@ -1,0 +1,8 @@
+Warrior
+Hunter
+Rogue
+Priest
+Mage
+Warlock
+Monk
+Death Knight
